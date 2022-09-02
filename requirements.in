@@ -5,3 +5,6 @@ nbconvert
 numpy
 scipy
 matplotlib
+astropy
+requests
+pandas
